@@ -38,5 +38,6 @@ Developed as part of the *Operations Research for Energy Systems Application* co
 
 1. **Clone the Repository**
 ```bash
-git clone git@github.com:Linus-77/ORESA--Project-Energy-Optimization-.git
-cd energy-linopy-project
+git clone https://github.com/zaryabmehdi12-cell/Energy-Optimization.git
+cd Energy-Optimization
+
